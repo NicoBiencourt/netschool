@@ -31,3 +31,38 @@
   background: $purple;
   color: white;
 }
+
+#features {
+  background-color: #3F5A6D;
+  background-size: cover;
+  margin: 0px;
+}
+
+#features h2 {
+  text-align: center;
+  font-size: 32px;
+  color: white;
+  margin: 0px;
+}
+
+#features h3 {
+  font-size: 26px;
+  color: white;
+}
+
+#features p {
+  font-size: 22px;
+  color: rgb(200, 200, 200);
+}
+
+.breathing {
+  padding: 35px;
+  text-align: center;
+  margin: 0;
+}
+
+.serv_logos {
+  width:200px;
+  color: white;
+  margin: 0
+}

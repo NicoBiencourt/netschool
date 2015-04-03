@@ -4,3 +4,17 @@
  * Before writing in this file, look if there is not
  * already a Bootstrap SCSS variable that does the same job
  * ------------------------------------- */
+ #banner {
+  background-image: url(../images/bag-and-hands.jpg);
+  background-size: cover;
+  height: 800px;
+  margin: 0px;
+  padding-top: 150px;
+  padding-left: 150px;
+}
+
+#banner p {
+  color: rgb(200, 200, 200);
+  font-size: 30px;
+}
+
